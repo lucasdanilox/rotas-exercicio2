@@ -1,6 +1,6 @@
 # Exercício: Rotas II
 
-![Rotas](https://i.postimg.cc/W4hFyD4w/Promo-o-Google-Chrome-2024-03-13-17-12-06.gif)
+![Rotas](https://i.postimg.cc/LhF4xXbv/Promo-o-Google-Chrome-2024-03-13-17-12-06-1.gif)
 
 # Visão Geral do Sistema
 
