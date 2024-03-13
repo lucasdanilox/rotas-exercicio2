@@ -1,0 +1,15 @@
+.button-container {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+button {
+    background-color: var(--color-button-primary);
+    color: var(--color-font-primary);
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 6px;
+    border: 0;
+    width: 150px;
+    height: 45px
+}

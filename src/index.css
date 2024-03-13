@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap');
+
+:root {
+
+    --color-bg-primary: #DADADA;
+    --color-bg-secondary: #FFFFFF;
+    --color-header-primary: #FF2323;
+
+    --color-font-primary: #FFFFFF;
+    --color-font-secondary: #6F6F6F;
+    --color-font-tertiary: #6E6E6E;
+
+    --color-button-primary: #FF2323;
+
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: "Inter";
+}
+
+html,
+body {
+
+    background-color: var(--color-bg-primary);
+}
+
+main {
+    padding: 20px 0;
+}
+
+a,
+a:hover {
+
+    text-decoration: none;
+    color: unset;
+}

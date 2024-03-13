@@ -1,0 +1,16 @@
+header{
+    height: 80px;
+    background-color: var(--color-header-primary);
+}
+
+.title-name{
+    font-size: 20px;
+    cursor: pointer;
+    color: var(--color-font-primary);
+}
+
+.text-align{
+    max-width: 960px;
+    margin: 0 auto;
+    padding-top: 20px;
+}
